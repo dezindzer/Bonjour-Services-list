@@ -20,8 +20,6 @@
 | _webdav._tcp | WebDAV File System (WEBDAV) |
 | _webdav._tcp | WebDAV File System (WEBDAV) |
 
-
-
 ## Proprietary
 
 **Amazon**
@@ -31,12 +29,6 @@
 | _homekit._tcp | Amazon Echo |
 | _workstation._tcp | Amazon Echo |
 | _amzn-wplay._tcp | Amazon TV & devices |
-
-**Aqara**
-| Service | Description |
-| --- | --- |
-| _aqara-setup._tcp | ??? |
-| _aqara._tcp | ??? |
 
 **Apple**
 | Service | Description |
@@ -198,6 +190,8 @@
 | _xbmc-jsonrpc._tcp | Kodi |
 | _miio._udp | Xiaomi |
 | _octoprint._tcp | OctoPrint |
+| _aqara-setup._tcp | Aqara - Smart Home Automation |
+| _aqara._tcp | Aqara - Smart Home Automation |
 | aaa | aaa |
 | aaa | aaa |
 | aaa | aaa |
