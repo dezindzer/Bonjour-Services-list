@@ -6,6 +6,8 @@
 ## Proprietary
 
 **File protocols**
+| Service | Description |
+| --- | --- |
 | _ftp._tcp | File Transfer Protocol (FTP) |
 | _http._tcp | Hypertext Transfer Protocol (HTTP) |
 | _nfs._tcp | Network File System (NFS) |
@@ -164,7 +166,9 @@ https://github.com/eldraco/Sapito/blob/master/mDNS-services.txt
 https://jonathanmumm.com/tech-it/mdns-bonjour-bible-common-service-strings-for-various-vendors/
 
 
+> [!WARNING]
+> Aruba devices dont require **.local** after service ID.
+
 > [!IMPORTANT]
-> Aruba devices dont require **.local** after service ID. 
 > Some devices require **.local** after service ID, example: **_googlecast._tcp.local**
 
